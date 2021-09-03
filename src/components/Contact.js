@@ -27,7 +27,7 @@ export default function Contact() {
 
           <div className="relative mb-4">
             <label className="leading-7 text-lg text-white">
-              Email: levileuthold@gmail.com
+              Email: leutholdlevi@gmail.com
             </label>
           </div>
           <div className="relative mb-4">
