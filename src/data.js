@@ -33,20 +33,35 @@ export const projects = [
   },
 ];
 
-export const testimonials = [
+export const experiences = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+      "Worked on a comprehensive data and analytics application for added value reporting. The app was designed with a microservices architecture in mind and built using NodeJS, Java, React, and AWS. I assisted in design/development and implemented backend solutions that added features.",
+    image: "./cambia.jpg",
+    companyName: "Cambia Health Solutions",
+    date: "Jun. 2020 - Mar. 2021 (9 months)",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+      "Working with the aftermarket team to maintain and develop applications supporting trucks operating out in the world. Developed an E2E testing suite and fixed user reported bugs for an application that presents information on individual trucks.",
+    image: "./daimler.jpeg",
+    companyName: "Daimler Trucks North America",
+    date: "Jun. 2021 - present",
+  },
+];
+
+export const educations = [
+  {
+    school: "Rogue Community College",
+    degree: "A.S. Software Engineering Technology",   
+    image: "./rcc.png",
+    gpa: " 3.49"
+  },
+  {
+    school: "Oregon Tech",
+    degree: "B.S. Software Engineering Technology",   
+    image: "./oit.png",
+    gpa: " 3.65"
   },
 ];
 
