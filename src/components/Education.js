@@ -1,12 +1,12 @@
 // src/components/Education
 
 import React from "react";
-import { BookOpenIcon, AcademicCapIcon } from "@heroicons/react/solid";
+import { AcademicCapIcon } from "@heroicons/react/solid";
 import { educations } from "../data";
 
-export default function Experience() {
+export default function Education() {
     return (
-        <section id="experience">
+        <section id="education">
             <div className="container px-5 py-10 mx-auto text-center">
                 <AcademicCapIcon className="w-10 inline-block mb-4" />
                 <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-12">
