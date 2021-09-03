@@ -11,13 +11,13 @@ export default function About() {
               Hi, I'm Levi.
               <br className="hidden lg:inline-block" />I'm a Software Engineer
             </h1>
-            <p className="mb-8 leading-relaxed">
+            <p className="mb-8 text-lg leading-relaxed">
             Growing up I always had a passion for technology, whether it was computer hardware, 3D animation, virtual reality, robotics, game development, or programming. I knew that I wanted to work with computers, so in highschool when I went to community college for a dual enrollment program, I started studying software engineering. I later transfered to Oregon Tech where I graduated with my bachelor’s in software engineering technology. Currently, I'm finishing up my 2nd internship to conclude the MECOP program.
             </p>
             <div className="flex justify-center">
               <a
                 href="#contact"
-                className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
+                className="inline-flex text-white bg-blue border-0 py-2 px-6 focus:outline-none hover:bg-lightBlue rounded text-lg">
                 Work With Me
               </a>
               <a

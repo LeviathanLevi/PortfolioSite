@@ -10,14 +10,13 @@ import Education from "./components/Education";
 
 export default function App() {
   return (
-    <main className="text-gray-400 bg-gray-900 body-font">
+    <main className="text-white bg-black body-font">
       <Navbar />
       <About />
       <Projects />
       <Experience />
       <Education />
       <Skills />
-      
       <Contact />
     </main>
   );

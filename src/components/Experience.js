@@ -30,7 +30,7 @@ export default function Experience() {
                     <span className="title-font font-medium text-white">
                       {experiences.companyName}
                     </span>
-                    <span className="text-gray-500 text-sm uppercase">
+                    <span className="text-lightBlue text-sm uppercase">
                       {experiences.date}
                     </span>
                   </span>

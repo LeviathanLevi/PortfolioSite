@@ -15,8 +15,6 @@ export default function Experience() {
                 <div className="flex flex-wrap m-4">
                     {educations.map((educations) => (
                         <div className="p-4 md:w-1/2 w-full">
-
-
                             <div className="h-full bg-gray-800 bg-opacity-40 p-8 rounded flex">
 
                                 <div className="mx-auto">
@@ -31,19 +29,15 @@ export default function Experience() {
                                         <span className="title-font text-3xl text-white">
                                             {educations.school}
                                         </span>
-                                        <span className="text-gray-500 text-2x1 uppercase">
+                                        <span className="text-lightBlue text-2x1 uppercase">
                                             {educations.degree}
                                         </span>
-                                        <span className="text-gray-500 text-2x1 uppercase">
+                                        <span className="text-lightBlue text-2x1 uppercase">
                                             GPA:
                                             {educations.gpa}
                                         </span>
                                     </span>
                                 </div>
-
-
-
-
                             </div>
                         </div>
                     ))}

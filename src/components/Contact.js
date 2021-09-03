@@ -49,22 +49,22 @@ export default function Contact() {
           </h2>
 
           <div className="relative mb-4">
-            <label className="leading-7 text-lg text-gray-400">
+            <label className="leading-7 text-lg text-white">
               Email: levileuthold@gmail.com
             </label>
           </div>
           <div className="relative mb-4">
-            <label className="leading-7 text-lg text-gray-400">
+            <label className="leading-7 text-lg text-white">
               Phone: (541) 816-8776
             </label>
           </div>
           <div className="relative mb-4">
-            <a href="https://www.linkedin.com/in/levi-leuthold-757b1018b/" className="underline leading-7 text-lg text-blue-400">
+            <a href="https://www.linkedin.com/in/levi-leuthold-757b1018b/" className="underline leading-7 text-lg text-lightBlue">
               LinkedIn
             </a>
           </div>
           <div className="relative mb-4">
-            <a href="https://github.com/LeviathanLevi" className="underline leading-7 text-lg text-blue-400">
+            <a href="https://github.com/LeviathanLevi" className="underline leading-7 text-lg text-lightBlue">
               GitHub
             </a>
           </div>
