@@ -1,5 +1,10 @@
-# Getting Started with Create React App
-
+# Levi Leuthold's Portfolio Site 
+## This is a React app built to showcase projects and other work I've done
+### ***********************************************************************
+\
+\
+\
+\
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
