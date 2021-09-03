@@ -27,8 +27,11 @@ export default function Experience() {
                     className="w-12 rounded-full flex-shrink-0 object-cover object-center"
                   />
                   <span className="flex-grow flex flex-col pl-4">
-                    <span className="title-font font-medium text-white">
+                    <span className="title-font font-medium text-xl text-white">
                       {experiences.companyName}
+                    </span>
+                    <span className="text-white text-md uppercase">
+                      Software Engineer Intern
                     </span>
                     <span className="text-lightBlue text-sm uppercase">
                       {experiences.date}
