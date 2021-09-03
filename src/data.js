@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "Crypto Trading Algorithm",
     description:
       "This is a crypto trading bot made in NodeJS that uses the coinbase pro API to trade crypto. It implements various customizable trading algorithms like, momentum trading and features back testing against historical data.",
-    image: "./test.jpg",
+    image: "./coinbasero.png",
     link: "https://github.com/LeviathanLevi/Coinbase-Pro-Crypto-Trading-Bot-CrypFinder",
   },
   {
@@ -19,17 +19,17 @@ export const projects = [
     title: "Pyramid Crawler",
     subtitle: "Unity Mobile Game",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "Pyramid Crawler is a Unity game for Android/IOS. It's a turn-based game that utilizes RNG mechanics and plays on a grid where the player moves to defeat enemies and advance through stages. It features 3D models and assets I created in Blender3D and C# scripting.",
+    image: "./pyramidcrawler.gif",
+    link: "https://github.com/LeviathanLevi/PyramidCrawler",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Trader Invader",
+    subtitle: "React/NodeJS Group Project",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "Trader Invader was a group project where me and 3 others made a stock trading simulation game. It uses React for the frontend and NodeJS for the backend and used DynamoDB for storing data. While it's no longer hosted on AWS you can find the project files here.",
+    image: "./traderinvader.png",
+    link: "https://github.com/TraderInvaderJP",
   },
 ];
 
@@ -50,11 +50,4 @@ export const testimonials = [
   },
 ];
 
-export const skills = [
-  "JavaScript",
-  "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
-];
+export const skills = ["NodeJS","C","C++","C#",".NET","JavaScript","Ruby","HTML","CSS","AWS","Lambda","S3","ECS Tasks","Docker","Cucumber/Gherkin","Nightwatch.js","Mocha/Chai","SQL Server","Big Query","Concurrent Programming","Jira","Git","Unity Game Engine","Blender3D"];
