@@ -14,7 +14,7 @@ export default function Projects() {
             Projects
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Check out some of the passion projects I've done for fun! Oh and this website is one ;)
+            Check out some of the passion projects I've done for fun! Oh and this website that's built in React is one ;)
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
