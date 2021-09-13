@@ -19,7 +19,7 @@ export const projects = [
     title: "Pyramid Crawler",
     subtitle: "Unity Mobile Game",
     description:
-      "A turn based mobile game developed in Unity and Blender that plays on a grid and uses random number generated game mechanics. I developed all the 3D assets, software, and processes.",
+      "A turn based mobile game developed in Unity and Blender that plays on a grid and uses random number generated game mechanics. I designed and developed all of the 3D assets, animations, software, C# scripting, and processes.",
     image: "./pyramidcrawler.gif",
     link: "https://github.com/LeviathanLevi/PyramidCrawler",
   },
@@ -27,7 +27,7 @@ export const projects = [
     title: "Trader Invader",
     subtitle: "React/NodeJS Group Project",
     description:
-      "Team-based project to design and develop a web application that lets players compete in stock trading competitions. My role focused on requirements writing, design, and backend development. Tech stack included: React, S3, Cognito, DynamoDB, and NodeJS-based AWS Lambdas.",
+      "Team-based project to design and develop a web application that lets players compete in stock trading competitions. My role focused on design and backend development. Tech stack included: React, S3, Cognito, DynamoDB, and NodeJS-based AWS Lambdas.",
     image: "./traderinvader.png",
     link: "https://github.com/TraderInvaderJP",
   },
