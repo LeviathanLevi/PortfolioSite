@@ -12,7 +12,7 @@ export default function About() {
               <br className="hidden lg:inline-block" />I'm a Software Engineer
             </h1>
             <p className="mb-8 text-lg leading-relaxed">
-            Growing up I always had a passion for technology, whether it was computer hardware, 3D animation, virtual reality, robotics, game development, or programming. I knew that I wanted to work with computers, so in highschool when I went to Rogue Community College for a dual enrollment program, I started studying software engineering. I later transfered to Oregon Tech where I graduated with my bachelor’s in software engineering technology. Currently, I'm finishing up my 2nd MECOP internship at Daimler Trucks NA to conclude the MECOP program. 
+            Growing up I always had a passion for technology, whether it was computer hardware, 3D animation, virtual reality, robotics, game development, or programming. So, in high school, I dual enrolled at Rogue Community College to get a head start on a career in software engineering. This later allowed me to transfer to Oregon Tech and hit the ground running, completing my Bachelor of Science in Software Engineering Technology early. Currently, I’m finishing up my second MECOP internship at Daimler Trucks NA and exploring full-time opportunities that will allow me to wear many hats and keep growing as an engineer.
             </p>
             <div className="flex justify-center">
               <a
